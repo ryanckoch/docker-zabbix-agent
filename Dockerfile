@@ -1,5 +1,4 @@
-FROM debian:sid
-MAINTAINER Boris HUISGEN <bhuisgen@hbis.fr>
+FROM ryanckoch/docker-ubuntu-14.04
 
 ENV DEBIAN_FRONTEND noninteractive
 
